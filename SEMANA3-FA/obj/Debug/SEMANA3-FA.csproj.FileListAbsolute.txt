@@ -1,0 +1,8 @@
+C:\Users\UPN\Documents\SEMA3-FA\Ejercicios FA- SE3-4\SEMANA3-FA\bin\Debug\SEMANA3-FA.exe.config
+C:\Users\UPN\Documents\SEMA3-FA\Ejercicios FA- SE3-4\SEMANA3-FA\bin\Debug\SEMANA3-FA.exe
+C:\Users\UPN\Documents\SEMA3-FA\Ejercicios FA- SE3-4\SEMANA3-FA\bin\Debug\SEMANA3-FA.pdb
+C:\Users\UPN\Documents\SEMA3-FA\Ejercicios FA- SE3-4\SEMANA3-FA\obj\Debug\SEMANA3-FA.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\SEMA3-FA\Ejercicios FA- SE3-4\SEMANA3-FA\obj\Debug\SEMANA3-FA.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\SEMA3-FA\Ejercicios FA- SE3-4\SEMANA3-FA\obj\Debug\SEMANA3-FA.exe
+C:\Users\UPN\Documents\SEMA3-FA\Ejercicios FA- SE3-4\SEMANA3-FA\obj\Debug\SEMANA3-FA.pdb
+C:\Users\UPN\Documents\SEMA3-FA\Ejercicios FA- SE3-4\SEMANA3-FA\obj\Debug\SEMANA3-FA.exe.config
