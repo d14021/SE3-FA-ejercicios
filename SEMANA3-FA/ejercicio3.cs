@@ -10,7 +10,9 @@ namespace SEMANA3_FA
     {
         static void Main(string[] args)
         {
-
+            Console.Write("Ingrese Número 1: ");
+            int num1 = int.Parse(Console.ReadLine());
+            Console.Write("Ingrese Número 2: ");
         }
     }
 }
