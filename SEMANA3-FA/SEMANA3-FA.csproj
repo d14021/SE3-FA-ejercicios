@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>SEMANA3_FA.ejercicio2</StartupObject>
+    <StartupObject>SEMANA3_FA.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

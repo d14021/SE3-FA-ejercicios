@@ -13,6 +13,9 @@ namespace SEMANA3_FA
             Console.Write("Ingrese Número 1: ");
             int num1 = int.Parse(Console.ReadLine());
             Console.Write("Ingrese Número 2: ");
+            int num2 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($"\nSuma:");
         }
     }
 }

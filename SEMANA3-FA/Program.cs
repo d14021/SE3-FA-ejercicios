@@ -10,6 +10,14 @@ namespace SEMANA3_FA
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ingrese segundos: ");
+            int s = int.Parse(Console.ReadLine());
+
+            int h = s / 3600;
+            int m = (s % 3600) / 60;
+            int sr = s % 60;
+
+            Console.WriteLine($"\n{h} : {m} : {sr}");
         }
     }
 }

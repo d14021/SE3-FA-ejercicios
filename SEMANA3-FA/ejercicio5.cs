@@ -10,6 +10,12 @@ namespace SEMANA3_FA
     {
         static void Main(string[] args)
         {
+            //Console.WriteLine("Ingrese un número: ");
+            //string num = Console.ReadLine();
+
+            //double dec1 = double.Parse(num);
+            //int entero = (int)Math.Round(dec1);
+
 
         }
     }
